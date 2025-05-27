@@ -1,12 +1,12 @@
 ---
 title: WASH investments
 author:
-  - name: First Second Last
-    orcid: 0000-0000-0000-0000
+  - name: Till Roost
+    orcid: 0009-0001-3983-9597
     corresponding: true
-    email: me@me.com
+    email: till.roost@ipz.uzh.ch
     affiliations:
-      - name: My University
+      - name: University of Zurich
 date: last-modified
 format:
   html:
@@ -27,7 +27,7 @@ bibliography: references.bib
 # install required R packages
 # install.packages("devtools")
 # devtools::install_github("openwashdata/washinvestments")
-# install.packages(c("ggplot2", "countrycode", "dplyr", "ggthemes))
+# install.packages(c("ggplot2", "countrycode", "dplyr", "ggthemes"))
 ```
 
 # Data import
